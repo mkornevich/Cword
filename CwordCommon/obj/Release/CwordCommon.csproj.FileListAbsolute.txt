@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\projects\Cword\CwordCommon\bin\Release\CwordCommon.dll
+C:\Users\User\Desktop\projects\Cword\CwordCommon\bin\Release\CwordCommon.pdb
+C:\Users\User\Desktop\projects\Cword\CwordCommon\bin\Release\Newtonsoft.Json.dll
+C:\Users\User\Desktop\projects\Cword\CwordCommon\bin\Release\Newtonsoft.Json.xml
+C:\Users\User\Desktop\projects\Cword\CwordCommon\obj\Release\CwordCommon.csprojAssemblyReference.cache
+C:\Users\User\Desktop\projects\Cword\CwordCommon\obj\Release\CwordCommon.Forms.AboutForm.resources
+C:\Users\User\Desktop\projects\Cword\CwordCommon\obj\Release\CwordCommon.Properties.Resources.resources
+C:\Users\User\Desktop\projects\Cword\CwordCommon\obj\Release\CwordCommon.csproj.GenerateResource.cache
+C:\Users\User\Desktop\projects\Cword\CwordCommon\obj\Release\CwordCommon.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\projects\Cword\CwordCommon\obj\Release\CwordCommon.csproj.CopyComplete
+C:\Users\User\Desktop\projects\Cword\CwordCommon\obj\Release\CwordCommon.dll
+C:\Users\User\Desktop\projects\Cword\CwordCommon\obj\Release\CwordCommon.pdb

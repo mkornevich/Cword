@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\projects\Cword\Cword.Generator\bin\Debug\Cword.Generator.exe
+C:\Users\User\Desktop\projects\Cword\Cword.Generator\bin\Debug\Cword.Generator.pdb
+C:\Users\User\Desktop\projects\Cword\Cword.Generator\obj\Debug\Cword.Generator.csprojAssemblyReference.cache
+C:\Users\User\Desktop\projects\Cword\Cword.Generator\obj\Debug\Cword.Generator.Properties.Resources.resources
+C:\Users\User\Desktop\projects\Cword\Cword.Generator\obj\Debug\Cword.Generator.csproj.GenerateResource.cache
+C:\Users\User\Desktop\projects\Cword\Cword.Generator\obj\Debug\Cword.Generator.exe
+C:\Users\User\Desktop\projects\Cword\Cword.Generator\obj\Debug\Cword.Generator.pdb
+C:\Users\User\Desktop\projects\Cword\Cword.Generator\bin\Debug\Cword.Generator.exe.config
+C:\Users\User\Desktop\projects\Cword\Cword.Generator\obj\Debug\Cword.Generator.MainForm.resources
+C:\Users\User\Desktop\projects\Cword\Cword.Generator\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Desktop\projects\Cword\Cword.Generator\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Desktop\projects\Cword\Cword.Generator\obj\Debug\Cword.Generator.csproj.CopyComplete

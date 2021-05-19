@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\projects\Cword\CwordTester\obj\Debug\CwordTester.csprojAssemblyReference.cache
+C:\Users\User\Desktop\projects\Cword\CwordTester\obj\Debug\CwordTester.Forms.StartForm.resources
+C:\Users\User\Desktop\projects\Cword\CwordTester\obj\Debug\CwordTester.Properties.Resources.resources
+C:\Users\User\Desktop\projects\Cword\CwordTester\obj\Debug\CwordTester.csproj.GenerateResource.cache
+C:\Users\User\Desktop\projects\Cword\CwordTester\obj\Debug\CwordTester.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\projects\Cword\CwordTester\bin\Debug\CwordTester.exe.config
+C:\Users\User\Desktop\projects\Cword\CwordTester\bin\Debug\CwordTester.exe
+C:\Users\User\Desktop\projects\Cword\CwordTester\bin\Debug\CwordTester.pdb
+C:\Users\User\Desktop\projects\Cword\CwordTester\bin\Debug\CwordCommon.dll
+C:\Users\User\Desktop\projects\Cword\CwordTester\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Desktop\projects\Cword\CwordTester\bin\Debug\CwordCommon.pdb
+C:\Users\User\Desktop\projects\Cword\CwordTester\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Desktop\projects\Cword\CwordTester\obj\Debug\CwordTester.csproj.CopyComplete
+C:\Users\User\Desktop\projects\Cword\CwordTester\obj\Debug\CwordTester.exe
+C:\Users\User\Desktop\projects\Cword\CwordTester\obj\Debug\CwordTester.pdb
+C:\Users\User\Desktop\projects\Cword\CwordTester\obj\Debug\CwordTester.Forms.TestForm.resources

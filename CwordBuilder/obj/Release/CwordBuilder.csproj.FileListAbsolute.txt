@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\projects\Cword\CwordBuilder\bin\Release\CwordBuilder.exe.config
+C:\Users\User\Desktop\projects\Cword\CwordBuilder\bin\Release\CwordBuilder.exe
+C:\Users\User\Desktop\projects\Cword\CwordBuilder\bin\Release\CwordBuilder.pdb
+C:\Users\User\Desktop\projects\Cword\CwordBuilder\bin\Release\CwordCommon.dll
+C:\Users\User\Desktop\projects\Cword\CwordBuilder\bin\Release\Newtonsoft.Json.dll
+C:\Users\User\Desktop\projects\Cword\CwordBuilder\bin\Release\CwordCommon.pdb
+C:\Users\User\Desktop\projects\Cword\CwordBuilder\bin\Release\Newtonsoft.Json.xml
+C:\Users\User\Desktop\projects\Cword\CwordBuilder\obj\Release\CwordBuilder.csprojAssemblyReference.cache
+C:\Users\User\Desktop\projects\Cword\CwordBuilder\obj\Release\CwordBuilder.Forms.MainForm.resources
+C:\Users\User\Desktop\projects\Cword\CwordBuilder\obj\Release\CwordBuilder.Properties.Resources.resources
+C:\Users\User\Desktop\projects\Cword\CwordBuilder\obj\Release\CwordBuilder.csproj.GenerateResource.cache
+C:\Users\User\Desktop\projects\Cword\CwordBuilder\obj\Release\CwordBuilder.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\projects\Cword\CwordBuilder\obj\Release\CwordBuilder.csproj.CopyComplete
+C:\Users\User\Desktop\projects\Cword\CwordBuilder\obj\Release\CwordBuilder.exe
+C:\Users\User\Desktop\projects\Cword\CwordBuilder\obj\Release\CwordBuilder.pdb

@@ -1,0 +1,274 @@
+{
+  "elements": [
+    {
+      "word": "конь",
+      "question": "Не пахарь, не столяр, Не кузнец, не плотник, А первый на селе работник.",
+      "number": 1
+    },
+    {
+      "word": "кот",
+      "question": "Задремлю я – и пою Песенку тебе свою. Но когда я на охоте – Не ленивый я в работе.",
+      "number": 2
+    },
+    {
+      "word": "хомяк",
+      "question": "Позапасливее всех я: У меня, друзья, щека Вроде сумки для орехов Или, скажем, вещмешка.",
+      "number": 3
+    },
+    {
+      "word": "ёжик",
+      "question": "Лежала между ёлками Подушечка с иголками. Тихонечко лежала, Потом вдруг убежала.",
+      "number": 4
+    },
+    {
+      "word": "бегемот",
+      "question": "У него огромный рот, Он зовется …",
+      "number": 5
+    },
+    {
+      "word": "медведь",
+      "question": "Вперевалку зверь идёт По малину и по мёд. Любит сладкое он очень, А когда приходит осень, Лезет в яму до весны, Где он спит и видит сны.",
+      "number": 6
+    },
+    {
+      "word": "белка",
+      "question": "Кто по ёлкам ловко скачет И взлетает на дубы? Кто в дупле орехи прячет, Сушит на зиму грибы?",
+      "number": 7
+    },
+    {
+      "word": "крот",
+      "question": "Роет, роет, Ход подземный строит, Роет, строит ловко Спальню и кладовку.",
+      "number": 8
+    }
+  ],
+  "table": {
+    "cols": 25,
+    "rows": 25,
+    "cells": [
+      {
+        "col": 6,
+        "row": 2,
+        "letter": "ё",
+        "horizontal_el_number": 4,
+        "vertical_el_number": -1
+      },
+      {
+        "col": 7,
+        "row": 2,
+        "letter": "ж",
+        "horizontal_el_number": 4,
+        "vertical_el_number": -1
+      },
+      {
+        "col": 8,
+        "row": 2,
+        "letter": "и",
+        "horizontal_el_number": 4,
+        "vertical_el_number": -1
+      },
+      {
+        "col": 9,
+        "row": 2,
+        "letter": "к",
+        "horizontal_el_number": 4,
+        "vertical_el_number": 8
+      },
+      {
+        "col": 9,
+        "row": 3,
+        "letter": "р",
+        "horizontal_el_number": -1,
+        "vertical_el_number": 8
+      },
+      {
+        "col": 4,
+        "row": 4,
+        "letter": "б",
+        "horizontal_el_number": -1,
+        "vertical_el_number": 7
+      },
+      {
+        "col": 6,
+        "row": 4,
+        "letter": "м",
+        "horizontal_el_number": -1,
+        "vertical_el_number": 6
+      },
+      {
+        "col": 9,
+        "row": 4,
+        "letter": "о",
+        "horizontal_el_number": -1,
+        "vertical_el_number": 8
+      },
+      {
+        "col": 3,
+        "row": 5,
+        "letter": "б",
+        "horizontal_el_number": 5,
+        "vertical_el_number": -1
+      },
+      {
+        "col": 4,
+        "row": 5,
+        "letter": "е",
+        "horizontal_el_number": 5,
+        "vertical_el_number": 7
+      },
+      {
+        "col": 5,
+        "row": 5,
+        "letter": "г",
+        "horizontal_el_number": 5,
+        "vertical_el_number": -1
+      },
+      {
+        "col": 6,
+        "row": 5,
+        "letter": "е",
+        "horizontal_el_number": 5,
+        "vertical_el_number": 6
+      },
+      {
+        "col": 7,
+        "row": 5,
+        "letter": "м",
+        "horizontal_el_number": 5,
+        "vertical_el_number": -1
+      },
+      {
+        "col": 8,
+        "row": 5,
+        "letter": "о",
+        "horizontal_el_number": 5,
+        "vertical_el_number": -1
+      },
+      {
+        "col": 9,
+        "row": 5,
+        "letter": "т",
+        "horizontal_el_number": 5,
+        "vertical_el_number": 8
+      },
+      {
+        "col": 1,
+        "row": 6,
+        "letter": "к",
+        "horizontal_el_number": -1,
+        "vertical_el_number": 2
+      },
+      {
+        "col": 4,
+        "row": 6,
+        "letter": "л",
+        "horizontal_el_number": -1,
+        "vertical_el_number": 7
+      },
+      {
+        "col": 6,
+        "row": 6,
+        "letter": "д",
+        "horizontal_el_number": -1,
+        "vertical_el_number": 6
+      },
+      {
+        "col": 0,
+        "row": 7,
+        "letter": "х",
+        "horizontal_el_number": 3,
+        "vertical_el_number": -1
+      },
+      {
+        "col": 1,
+        "row": 7,
+        "letter": "о",
+        "horizontal_el_number": 3,
+        "vertical_el_number": 2
+      },
+      {
+        "col": 2,
+        "row": 7,
+        "letter": "м",
+        "horizontal_el_number": 3,
+        "vertical_el_number": -1
+      },
+      {
+        "col": 3,
+        "row": 7,
+        "letter": "я",
+        "horizontal_el_number": 3,
+        "vertical_el_number": -1
+      },
+      {
+        "col": 4,
+        "row": 7,
+        "letter": "к",
+        "horizontal_el_number": 3,
+        "vertical_el_number": 7
+      },
+      {
+        "col": 6,
+        "row": 7,
+        "letter": "в",
+        "horizontal_el_number": -1,
+        "vertical_el_number": 6
+      },
+      {
+        "col": 1,
+        "row": 8,
+        "letter": "т",
+        "horizontal_el_number": -1,
+        "vertical_el_number": 2
+      },
+      {
+        "col": 4,
+        "row": 8,
+        "letter": "а",
+        "horizontal_el_number": -1,
+        "vertical_el_number": 7
+      },
+      {
+        "col": 6,
+        "row": 8,
+        "letter": "е",
+        "horizontal_el_number": -1,
+        "vertical_el_number": 6
+      },
+      {
+        "col": 6,
+        "row": 9,
+        "letter": "д",
+        "horizontal_el_number": -1,
+        "vertical_el_number": 6
+      },
+      {
+        "col": 3,
+        "row": 10,
+        "letter": "к",
+        "horizontal_el_number": 1,
+        "vertical_el_number": -1
+      },
+      {
+        "col": 4,
+        "row": 10,
+        "letter": "о",
+        "horizontal_el_number": 1,
+        "vertical_el_number": -1
+      },
+      {
+        "col": 5,
+        "row": 10,
+        "letter": "н",
+        "horizontal_el_number": 1,
+        "vertical_el_number": -1
+      },
+      {
+        "col": 6,
+        "row": 10,
+        "letter": "ь",
+        "horizontal_el_number": 1,
+        "vertical_el_number": 6
+      }
+    ]
+  }
+}

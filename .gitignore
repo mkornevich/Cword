@@ -1,0 +1,5 @@
+/packages
+/.vs
+/CwordBuilder/bin
+/CwordCommon/bin
+/CwordTester/bin
