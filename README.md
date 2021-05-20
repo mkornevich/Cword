@@ -1,6 +1,6 @@
 # Cword
 Program for make and solve crosswords. Consisit of two modules: cword builder and cword tester.\
-Cword builder - intended for automate placing words on crossword area.
+Cword builder - intended for automate placing words on crossword area.\
 Cword tester - intended for solve generated crosswords.
 
 # Cword builder gallery
